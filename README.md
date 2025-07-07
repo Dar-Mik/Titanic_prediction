@@ -13,3 +13,6 @@ I conducted the first part of Exploratory Data Analysis (EDA) focusing on Age, S
 Next steps:
 1. Porceed with EDA focusing on remaining categories such as no. of family members on the ship
 2. Creation of Binary dependent model
+
+Main insights:
+1. Need to work on my matplotlib skills - graphing
