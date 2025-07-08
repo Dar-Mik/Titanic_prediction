@@ -1,3 +1,7 @@
 kagglehub
 matplotlib
 pandas
+sklearn
+scipy
+graphviz
+IPython
