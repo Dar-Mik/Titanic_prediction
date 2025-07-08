@@ -4,10 +4,10 @@ My first project on a journey of becoming ML expert.
 
 ## ACTIVATION
 1. clone repository
-2. change the directory using "cd"
-3. activate virtual environment using: 
+2. activate virtual environment using: 
         python -m venv .venv
         .venv\Scripts\activate
+3. change the directory using "cd"
 4. install packages using: pip install -r requirements.txt
 
 
